@@ -1,1 +1,2 @@
-# PDI
+# Pentaho
+Repo for Pentaho examples
